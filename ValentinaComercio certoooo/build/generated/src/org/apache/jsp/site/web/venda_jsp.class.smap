@@ -1,0 +1,28 @@
+SMAP
+venda_jsp.java
+JSP
+*S JSP
+*F
++ 0 venda.jsp
+site/web/venda.jsp
++ 1 cabecalho.jsp
+site/web/cabecalho.jsp
++ 2 rodape.jsp
+site/web/rodape.jsp
+*L
+1,7:65
+1#1,53:71
+53,54:124
+107:178,3
+108:181,6
+109:187,3
+110,12:190
+122:202,3
+123:205,6
+124:211,3
+125,38:214
+7#0:251
+9,35:253
+43,5:288
+1#2,75:292
+*E
